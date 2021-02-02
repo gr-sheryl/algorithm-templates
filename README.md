@@ -1,2 +1,2 @@
 # algorithm-templates
-数据结构模版
+数据结构,OJ模版
